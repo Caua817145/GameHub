@@ -1,5 +1,5 @@
 // CONFIGURAÇÃO DE LUCRO (Coloque seu SID aqui)
-const MEU_SID = 'SEU_SID_AQUI'; 
+const MEU_SID = 'H659B'; 
 
 const grid = document.getElementById('game-grid');
 const view = document.getElementById('game-view');
